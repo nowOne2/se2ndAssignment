@@ -299,13 +299,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1I7t0ESsAsU9kuabNrUi-12" value="2:register" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="1I7t0ESsAsU9kuabNrUi-12" value="2:register()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="134" y="152" as="sourcePoint" />
             <mxPoint x="194" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1I7t0ESsAsU9kuabNrUi-13" value="2.1:AddBike()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="1I7t0ESsAsU9kuabNrUi-13" value="2.1:AddABike()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="339" y="152" as="sourcePoint" />
             <mxPoint x="399" y="152" as="targetPoint" />
